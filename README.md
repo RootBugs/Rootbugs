@@ -1,92 +1,64 @@
-<div align="center">
+<h1>Karan.</h1>
 
-# Hey there, I'm Om Birtarkar ðŸ‘‹
+**Commerce Student Â· Builder Â· Writer Â· Thinker**
 
-### ðŸš€ Developer | Tech Enthusiast | Problem Solver
+I am an eighteen-year-old builder from Uttar Pradesh, India. Pursuing a Bachelor of Commerce, but my real education happens outside the classroom â€” programming, AI systems, software development, business, psychology, and philosophy.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+Cool+Stuff;Turning+Ideas+Into+Code;Always+Learning+Something+New)](https://git.io/typing-svg)
-
-</div>
+> *"Growth begins where comfort ends."*
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+### What I Do
 
-- ðŸ”­ Currently working on **exciting projects**
-- ðŸŒ± Currently learning **new technologies**
-- ðŸ’¡ Love solving problems and building things
-- ðŸŽ¯ Goal: Ship products that make a difference
-- âš¡ Fun fact: *I debug with console.log and I'm not ashamed*
-
----
-
-## ðŸ› ï¸ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+- Building AI-powered systems and developer tools
+- Writing â€” code, content, and philosophy
+- Learning across programming, business, and human behaviour
+- Running an Instagram page on Indian history, geopolitics, and philosophy
 
 ---
 
-## ðŸ“Š GitHub Stats
+### Tech & Skills
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RootBugs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RootBugs&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RootBugs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
+`Python` `JavaScript` `AI/LLM Systems` `Prompt Engineering` `APIs` `Git/GitHub` `CLI Tools` `Automation` `Open Source` `Copywriting` `Business Strategy`
 
 ---
 
-## ðŸ† GitHub Trophies
+### Projects
 
-<div align="center">
+**Omega OS** â€” An AI-powered operating system concept with persistence layers, memory architecture, provider routing, and safety protocols.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RootBugs&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+**OpenKwen** â€” Lightweight open-source gateway for connecting to any OpenAI-compatible provider without setup overhead.
 
-</div>
+**OpenGateway** â€” Unified API layer to access multiple AI providers with a single key. Handles rate limiting, fallbacks, and usage tracking.
 
----
+**Kwen** â€” Modular AI orchestration tool for complex multi-provider workflows, prompt pipelines, and context management.
 
-## ðŸ Contribution Snake
+**Kwen App** â€” Minimal frontend to interact with multiple AI models side by side, compare outputs, and save conversations.
 
-![Snake animation](https://raw.githubusercontent.com/RootBugs/RootBugs/output/github-contribution-grid-snake-dark.svg)
+**Feio Library** â€” Python library for token counting, retry logic, response validation, and structured output parsing.
 
----
+**Feio Scriptures** â€” Collection of philosophical and religious texts, cleaned up and organized for easy reference.
 
-## ðŸ“« Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ombirtarkar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RootBugs)
-
-</div>
+**RootBugs Labs** â€” Personal experimental space for messy ideas that turn into something real.
 
 ---
 
-<div align="center">
+### Author
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=RootBugs%2FRootBugs&countColor=%2337d67a&style=flat)
+*The Untamed Mind: Reflections at Seventeen* â€” A philosophical work exploring freedom, pain, happiness, knowledge, time, existence, and self-discovery. Written at seventeen, raw and deeply personal.
 
-**Thanks for visiting my profile! Have a great day ðŸ˜„**
+---
 
-</div>
+### Principles
+
+Consistency over intensity. Self-education over credentials. Curiosity over certainty. Discipline over motivation. Independent thinking over the crowd. Long-term vision over short-term gratification.
+
+---
+
+### Connect
+
+[GitHub](https://github.com/RootBugs) Â· [Instagram](https://instagram.com/effestier)
+
+---
+
+*Â© 2026 Karan Â· RootBugs*
