@@ -1,8 +1,8 @@
 <h1>Karan.</h1>
 
-**Commerce Student Â· Builder Â· Writer Â· Thinker**
+**Commerce Student - Builder - Writer - Thinker**
 
-I am an eighteen-year-old builder from Uttar Pradesh, India. Pursuing a Bachelor of Commerce, but my real education happens outside the classroom â€” programming, AI systems, software development, business, psychology, and philosophy.
+I am an eighteen-year-old builder from Uttar Pradesh, India. Pursuing a Bachelor of Commerce, but my real education happens outside the classroom -- programming, AI systems, software development, business, psychology, and philosophy.
 
 > *"Growth begins where comfort ends."*
 
@@ -11,41 +11,44 @@ I am an eighteen-year-old builder from Uttar Pradesh, India. Pursuing a Bachelor
 ### What I Do
 
 - Building AI-powered systems and developer tools
-- Writing â€” code, content, and philosophy
+- Writing -- code, content, and philosophy
 - Learning across programming, business, and human behaviour
 - Running an Instagram page on Indian history, geopolitics, and philosophy
 
 ---
 
-### Tech & Skills
+### Tech and Skills
 
-`Python` `JavaScript` `AI/LLM Systems` `Prompt Engineering` `APIs` `Git/GitHub` `CLI Tools` `Automation` `Open Source` `Copywriting` `Business Strategy`
+```
+Python  |  JavaScript  |  AI/LLM Systems  |  Prompt Engineering  |  APIs
+Git/GitHub  |  CLI Tools  |  Automation  |  Open Source  |  Copywriting  |  Business Strategy
+```
 
 ---
 
 ### Projects
 
-**Omega OS** â€” An AI-powered operating system concept with persistence layers, memory architecture, provider routing, and safety protocols.
+**Omega OS** -- An AI-powered operating system concept with persistence layers, memory architecture, provider routing, and safety protocols.
 
-**OpenKwen** â€” Lightweight open-source gateway for connecting to any OpenAI-compatible provider without setup overhead.
+**OpenKwen** -- Lightweight open-source gateway for connecting to any OpenAI-compatible provider without setup overhead.
 
-**OpenGateway** â€” Unified API layer to access multiple AI providers with a single key. Handles rate limiting, fallbacks, and usage tracking.
+**OpenGateway** -- Unified API layer to access multiple AI providers with a single key. Handles rate limiting, fallbacks, and usage tracking.
 
-**Kwen** â€” Modular AI orchestration tool for complex multi-provider workflows, prompt pipelines, and context management.
+**Kwen** -- Modular AI orchestration tool for complex multi-provider workflows, prompt pipelines, and context management.
 
-**Kwen App** â€” Minimal frontend to interact with multiple AI models side by side, compare outputs, and save conversations.
+**Kwen App** -- Minimal frontend to interact with multiple AI models side by side, compare outputs, and save conversations.
 
-**Feio Library** â€” Python library for token counting, retry logic, response validation, and structured output parsing.
+**Feio Library** -- Python library for token counting, retry logic, response validation, and structured output parsing.
 
-**Feio Scriptures** â€” Collection of philosophical and religious texts, cleaned up and organized for easy reference.
+**Feio Scriptures** -- Collection of philosophical and religious texts, cleaned up and organized for easy reference.
 
-**RootBugs Labs** â€” Personal experimental space for messy ideas that turn into something real.
+**RootBugs Labs** -- Personal experimental space for messy ideas that turn into something real.
 
 ---
 
 ### Author
 
-*The Untamed Mind: Reflections at Seventeen* â€” A philosophical work exploring freedom, pain, happiness, knowledge, time, existence, and self-discovery. Written at seventeen, raw and deeply personal.
+*The Untamed Mind: Reflections at Seventeen* -- A philosophical work exploring freedom, pain, happiness, knowledge, time, existence, and self-discovery. Written at seventeen, raw and deeply personal.
 
 ---
 
@@ -57,8 +60,8 @@ Consistency over intensity. Self-education over credentials. Curiosity over cert
 
 ### Connect
 
-[GitHub](https://github.com/RootBugs) Â· [Instagram](https://instagram.com/effestier)
+[GitHub](https://github.com/RootBugs) | [Instagram](https://instagram.com/effestier)
 
 ---
 
-*Â© 2026 Karan Â· RootBugs*
+*2026 Karan -- RootBugs*
