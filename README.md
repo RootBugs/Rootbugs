@@ -1,5 +1,1 @@
-i make better stuff.
-
----
-
-**RootBugs** — building things that don't suck.
+Building things that don't suck.
