@@ -1,0 +1,9 @@
+[project]
+name = "rootbugs"
+version = "0.1.0"
+description = "RootBugs toolkit — profile README utilities and server scaffolds"
+requires-python = ">=3.9"
+license = "MIT"
+
+[project.scripts]
+rootbugs = "cli:main"

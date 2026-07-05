@@ -1,0 +1,9 @@
+{
+  "name": "rootbugs",
+  "version": "0.1.0",
+  "description": "RootBugs toolkit — profile README utilities and server scaffolds",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/test_utils.js"
+  }
+}
