@@ -1,1 +1,1 @@
-Building things that don't suck.
+Spreading wings in open source.
