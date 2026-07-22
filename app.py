@@ -4,4 +4,3 @@ def cached(k, fn):
         CACHE[k] = fn()
     return CACHE[k]
 
-# 2231
