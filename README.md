@@ -1,1 +1,1 @@
-Hi I love to code.
+Weird but privileged
